@@ -1,0 +1,25 @@
+{
+    "validPatient": {
+      "givenName": "John",
+      "familyName": "Doe",
+      "gender": "Male",
+      "birthdate": {
+        "day": "15",
+        "month": "January",
+        "year": "1990"
+      },
+      "address": "123 Main Street"
+    },
+    "femalePatient": {
+      "givenName": "Jane",
+      "familyName": "Smith",
+      "gender": "Female",
+      "birthdate": {
+        "day": "20",
+        "month": "March",
+        "year": "1985"
+      },
+      "address": "456 Oak Avenue"
+    }
+  }
+  

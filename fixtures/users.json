@@ -1,0 +1,13 @@
+{
+    "validUser": {
+      "username": "admin",
+      "password": "Admin123",
+      "location": "Inpatient Ward"
+    },
+    "invalidUser": {
+      "username": "invalid",
+      "password": "invalid",
+      "location": "Inpatient Ward"
+    }
+  }
+  
